@@ -7,7 +7,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkerdesigns&exclude_repo=Hello-World&border_color=000000">
 </a>
-## My knowledge so far and some examples
+### My knowledge so far and some examples
 
 -[Python](https://github.com/ThinkerDesigns/shrunklock)
 -[Java](https://dhruvsingh.com/web/products/designer/index)
@@ -18,12 +18,14 @@
 -Markdown
 -Bash
 
-## Goals
+### Goals
+
 - finish high school with a 4.5+ GPA
 - get into a preferably UC college
 - get a high paying job as a software developer
 
-## Tools I use
+### Tools I use
+
 -[Visual Studio Code](https://code.visualstudio.com/)
 -[Chrome](https://www.google.com/chrome/)
 -[Vim](https://www.vim.org/)
