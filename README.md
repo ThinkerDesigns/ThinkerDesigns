@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thinkerdesigns&count_private=true&show_icons=true&include_all_commits&border_color=000000">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkerdesigns&exclude_repo=Hello-World&border_color=000000">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkerdesigns&theme=dark">
 </a>
 ### My knowledge so far and some examples
 
