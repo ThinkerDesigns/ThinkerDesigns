@@ -9,14 +9,14 @@
 </a>
 ### My knowledge so far and some examples
 
--[Python](https://github.com/ThinkerDesigns/shrunklock)
--[Java](https://dhruvsingh.com/web/products/designer/index)
--C#
--[C++](https://dhruvsingh.com/web/products/ttm/index)
--[Javascript](https://dhruvsingh.com/web/browser/ex/ip/)
--[HTML](https://github.com/ThinkerDesigns/CactusJackRaffle)
--Markdown
--Bash
+- [Python](https://github.com/ThinkerDesigns/shrunklock)
+- [Java](https://dhruvsingh.com/web/products/designer/index)
+- C#
+- [C++](https://dhruvsingh.com/web/products/ttm/index)
+- [Javascript](https://dhruvsingh.com/web/browser/ex/ip/)
+- [HTML](https://github.com/ThinkerDesigns/CactusJackRaffle)
+- Markdown
+- Bash
 
 ### Goals
 
@@ -26,10 +26,10 @@
 
 ### Tools I use
 
--[Visual Studio Code](https://code.visualstudio.com/)
--[Chrome](https://www.google.com/chrome/)
--[Vim](https://www.vim.org/)
--CMD
--Bash
--[CentOS 7.8](https://www.centos.org/download/)
--[Ubuntu 20.04](https://ubuntu.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Chrome](https://www.google.com/chrome/)
+- [Vim](https://www.vim.org/)
+- CMD
+- Bash
+- [CentOS 7.8](https://www.centos.org/download/)
+- [Ubuntu 20.04](https://ubuntu.com/)
