@@ -22,7 +22,7 @@
 
 ### Goals
 
-- finish high school with a 4.5+ GPA
+- finish high school with a 5.5+ GPA
 - get into a preferably UC college
 - get a high paying job as a software developer
 
