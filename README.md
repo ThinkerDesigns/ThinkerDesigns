@@ -1,6 +1,5 @@
 # About me
-  Hi there, I'm The Thinker.
-  I started my programming journey in March of 2020 specifically right after the lockdown. I have since then advanced by learning more languages and even going as far as to       learn about hardware and experience industrial level tech.
+  Hi there, I started my programming journey in March of 2020 specifically right after the lockdown. I have since then advanced by learning more languages and even going as far as to learn about hardware and experience industrial-level tech.
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thinkerdesigns&theme=dark">
@@ -22,9 +21,9 @@
 
 ### Goals
 
-- finish high school with a 5.5+ GPA
-- get into a preferably UC college
-- get a high paying job as a software developer
+- finish high school with a 6.0 GPA
+- get into a preferably UC/UT college
+- get a high-paying job as a software developer
 
 ### Tools I use
 
