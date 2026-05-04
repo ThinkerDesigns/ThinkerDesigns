@@ -7,5 +7,5 @@
 <hr>
 <h3 align="center">Profile Stats</h3>
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=tks18&theme=tokyonight-duo&border_radius=5&card_width=450&card_height=180" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=ThinkerDesigns&theme=tokyonight-duo&border_radius=5&card_width=450&card_height=180" alt="GitHub Streak" />
 </p>
